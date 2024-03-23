@@ -126,8 +126,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![315323659-05fcd168-a57b-4b6e-bbd5-ac29cf92b4ae](https://github.com/Sriram8452/SMS_Intent/assets/118708032/18bdb584-0c41-49fd-a9e2-0e097ef528b4)
-![315323689-3136bf42-225e-493d-83b2-b2f365c9925b](https://github.com/Sriram8452/SMS_Intent/assets/118708032/67d0858c-d004-4789-b81c-dbc7ba243bd9)
+![image](https://github.com/Sriram8452/SMS_Intent/assets/118708032/64d9ed44-7baf-4f15-a5c5-6ef1570fe520)
+![image](https://github.com/Sriram8452/SMS_Intent/assets/118708032/28f16f2b-b782-4c71-a253-80789c7c55b0)
+
 
 
 
